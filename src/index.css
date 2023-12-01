@@ -1,0 +1,79 @@
+.nav {
+  background-color: darkgray;
+  border-radius: 5px;
+}
+
+.mt-3 {
+  color: #000000;
+  border: none;
+}
+
+h4 {
+  color: #000000;
+  text-align: center;
+}
+
+.men:hover {
+  background-color: #00ffff;
+  border-radius: 5px;
+}
+
+.men {
+  color: #00ffff;
+}
+
+.ab:hover {
+  background-color: #00ffff;
+  border-radius: 5px;
+}
+
+.ho:hover {
+  background-color: #00ffff;
+  border-radius: 5px;
+}
+
+.shadow {
+  background-image: linear-gradient(to top, #00ffff 5%, darkgray 45%);
+  border-radius: 5px;
+}
+
+.a {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: #00ffff;
+  font-size: 30px;
+}
+
+.category-aktif {
+  background-color: darkgray;
+  color: #000000;
+}
+
+.category-aktif:hover {
+  background-color: #00ffff;
+  color: #000000;
+}
+
+body {
+  margin: 0;
+  height: 100%;
+  background-image: url("/public/images/2020310987...jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  /* background-image: linear-gradient(
+    to right,
+    #0056a7 -20%,
+    #ffffff 50%,
+    #0056a7 120%
+  ); */
+  font-family: "Poppins", sans-serif;
+  font-family: "Public Sans", sans-serif;
+  font-family: "Rubik", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
